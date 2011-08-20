@@ -1,3 +1,3 @@
-module ForkBuddy
-  VERSION = "0.0.2"
+class ForkBuddy
+  VERSION = "0.0.3"
 end
